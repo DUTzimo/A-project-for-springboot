@@ -1,2 +1,2 @@
-# A-bad-project-for-springboot
+# A-project-for-springboot
 #有些bug还未修复
